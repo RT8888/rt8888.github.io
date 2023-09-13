@@ -1,50 +1,45 @@
-title: Cookie
-description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/"
-url: https://cookie-demo.netlify.app # change this URL, this is needed for generating right sitemap
+# site settings
+title: UniFit Consultancy
+subtitle: UniFit Consultancy Services
+email: unifitconsultancy@gmail.com
+description: UniFit Consultancy Services
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: Kedgaon
+city: Ahmednagar
+state: MH
+zip_code: 414003
+country: India
+phone: +91-8888488548
 
-permalink: "/blog/:title/"
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
 
-plugins:
-  - jekyll-feed
-  - jekyll-soopr-seo-tag
-  - jekyll-sitemap
-  - jekyll-minifier
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  # GitHub: https://github.com/andrewbanchich
+  # GitLab:
+  # Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  # Instagram:
+  # LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+  # Twitter: https://twitter.com/andrewbanchich
+  # Facebook:
+  # Slack:
+  WhatsApp: +91-8888488548
 
-css_dir: "assets/css" # defaults to "css"
+# build settings
+markdown: kramdown
 
-highlighter: rouge
-
-collections:
-  posts:
-    output: true
-    permalink: "/blog/:title"
-  pages:
-    output: true
-    permalink: "/:title"
-
-jekyll-minifier:
-  uglifier_args:
-    harmony: true
-
-soopr:
-  publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
-
-twitter:
-  card: summary_large_image
+sass:
+  style: compressed
 
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - package.json
-  - package-lock.json
-  - README.md
-  - postcss.config.js
-  - purgecss.config.js
-  - tailwind.config.js
-  - .gitignore
-  - vendor
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
