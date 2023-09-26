@@ -41,9 +41,9 @@ nav-menu: true
 		<h3>Accumsan montes viverra</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
-</div>
+</div> -->
 
-<hr class="major" />
+<!-- <hr class="major" />
 -->
 <!-- Elements
 <h2 id="elements">Elements</h2>
