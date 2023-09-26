@@ -1,7 +1,7 @@
 # site settings
 title: UniFit Consultancy
 subtitle: UniFit Consultancy Services
-email: unifitconsultancy@gmail.com
+email: admin@unifitconsultancy.com
 description: UniFit Consultancy Services
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
