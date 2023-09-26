@@ -1,7 +1,7 @@
 ---
-title: Landing
-layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+title: Diet & Workout
+layout: Diet & Workout
+description: 'Personalized diet and Workout plans from our top experts'
 image: assets/images/landing.jpg
 nav-menu: true
 ---
