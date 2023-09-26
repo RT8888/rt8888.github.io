@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Elements
+layout: Diet
+title: Diet
 image: assets/images/element.jpg
 nav-menu: true
 ---
