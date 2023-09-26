@@ -7,16 +7,16 @@ nav-menu: true
 ---
 
 <!-- Main 
-<div id="main" class="alt">
+<div id="main" class="alt">-->
 
-<!-- One -->
+<!-- One 
 <section id="one">
 	<div class="inner">
 		<header class="major">
 			<h1>Elements</h1>
-		</header>
+		</header> -->
 
-<!-- Content -->
+<!-- Content 
 <h2 id="content">Sample Content</h2>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 <div class="row">
@@ -44,13 +44,13 @@ nav-menu: true
 </div>
 
 <hr class="major" />
-
-<!-- Elements -->
+-->
+<!-- Elements
 <h2 id="elements">Elements</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
-
-<!-- Text stuff -->
+ -->
+<!-- Text stuff
 <h3>Text</h3>
 <p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
 This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
@@ -62,7 +62,7 @@ Finally, this is a <a href="#">link</a>.</p>
 <h4>Heading Level 4</h4>
 <hr />
 <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-
+ -->
 <!-- Lists -->
 <h3>Lists</h3>
 <div class="row">
