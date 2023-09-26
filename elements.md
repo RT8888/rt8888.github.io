@@ -1,6 +1,7 @@
 ---
 layout: Diet
 title: Diet
+description: Personalised Diet Plans
 image: assets/images/element.jpg
 nav-menu: true
 ---
