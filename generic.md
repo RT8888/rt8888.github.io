@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Workout
-description: Lorem ipsum dolor est
+description: Personalised Workout and Fitness Plans
 image: assets/images/generic.jpg
 nav-menu: true
 ---
