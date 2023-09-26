@@ -5,7 +5,7 @@ description: Personalised Diet Plans
 image: assets/images/element.jpg
 nav-menu: true
 ---
-
+<img src="assets/images/diet.jpg" alt="" data-position="center center" />
 <!-- Main 
 <div id="main" class="alt">-->
 
