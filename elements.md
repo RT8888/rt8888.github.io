@@ -63,7 +63,7 @@ Finally, this is a <a href="#">link</a>.</p>
 <hr />
 <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
  -->
-<!-- Lists -->
+<!-- Lists 
 <h3>Lists</h3>
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -164,12 +164,12 @@ Finally, this is a <a href="#">link</a>.</p>
 		</ul>
 	</div>
 </div>
-
-<!-- Blockquote -->
+-->
+<!-- Blockquote
 <h3>Blockquote</h3>
 <blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.</blockquote>
-
-<!-- Table -->
+ -->
+<!-- Table
 <h3>Table</h3>
 
 <h4>Default</h4>
@@ -266,8 +266,8 @@ Finally, this is a <a href="#">link</a>.</p>
 
 </div>
 <div class="6u$ 12u$(medium)">
-
-<!-- Buttons -->
+ -->
+<!-- Buttons 
 <h3>Buttons</h3>
 <ul class="actions">
 	<li><a href="#" class="button special">Special</a></li>
@@ -299,8 +299,8 @@ Finally, this is a <a href="#">link</a>.</p>
 	<li><span class="button special disabled">Special</span></li>
 	<li><span class="button disabled">Default</span></li>
 </ul>
-
-<!-- Form -->
+-->
+<!-- Form
 <h3>Form</h3>
 
 <form method="post" action="#">
@@ -322,8 +322,8 @@ Finally, this is a <a href="#">link</a>.</p>
 					<option value="1">Human Resources</option>
 				</select>
 			</div>
-		</div>
-		<!-- Break -->
+		</div> -->
+		<!-- Break 
 		<div class="4u 12u$(small)">
 			<input type="radio" id="demo-priority-low" name="demo-priority" checked>
 			<label for="demo-priority-low">Low</label>
@@ -335,8 +335,8 @@ Finally, this is a <a href="#">link</a>.</p>
 		<div class="4u$ 12u$(small)">
 			<input type="radio" id="demo-priority-high" name="demo-priority">
 			<label for="demo-priority-high">High</label>
-		</div>
-		<!-- Break -->
+		</div>-->
+		<!-- Break
 		<div class="6u 12u$(small)">
 			<input type="checkbox" id="demo-copy" name="demo-copy">
 			<label for="demo-copy">Email me a copy</label>
@@ -344,12 +344,12 @@ Finally, this is a <a href="#">link</a>.</p>
 		<div class="6u$ 12u$(small)">
 			<input type="checkbox" id="demo-human" name="demo-human" checked>
 			<label for="demo-human">I am a human</label>
-		</div>
-		<!-- Break -->
+		</div> -->
+		<!-- Break 
 		<div class="12u$">
 			<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
-		</div>
-		<!-- Break -->
+		</div>-->
+		<!-- Break 
 		<div class="12u$">
 			<ul class="actions">
 				<li><input type="submit" value="Send Message" class="special" /></li>
@@ -358,8 +358,8 @@ Finally, this is a <a href="#">link</a>.</p>
 		</div>
 	</div>
 </form>
-
-<!-- Image -->
+-->
+<!-- Image 
 <h3>Image</h3>
 
 <h4>Fit</h4>
@@ -383,14 +383,15 @@ Finally, this is a <a href="#">link</a>.</p>
 <h4>Left &amp; Right</h4>
 <p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
 <p><span class="image right"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-
-<!-- Box -->
+-->
+<!-- Box 
 <h3>Box</h3>
 <div class="box">
 	<p>Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus lorem ipsum.</p>
 </div>
+-->
 
-<!-- Preformatted Code -->
+<!-- Preformatted Code 
 <h3>Preformatted</h3>
 <pre><code>i = 0;
 
@@ -408,5 +409,6 @@ print 'It took ' + i + ' iterations to sort the deck.';
 
 </div>
 </section>
--->
+
 </div>
+-->
