@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generic
+title: Workout
 description: Lorem ipsum dolor est
 image: assets/images/generic.jpg
 nav-menu: true
