@@ -5,8 +5,8 @@ description: 'Personalized diet and Workout plans from our top experts'
 image: assets/images/landing.jpg
 nav-menu: true
 ---
-
-<!-- Main -->
+<img src="assets/images/workout.jpg" alt="" data-position="center center" />
+<!-- Main 
 <div id="main">
 
 <!-- One -->
@@ -83,5 +83,5 @@ nav-menu: true
 		</ul>
 	</div>
 </section>
-
+-->
 </div>
