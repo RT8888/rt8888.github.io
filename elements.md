@@ -1,5 +1,5 @@
 ---
-layout: Diet
+layout: post
 title: Diet
 description: Personalised Diet Plans
 image: assets/images/element.jpg
