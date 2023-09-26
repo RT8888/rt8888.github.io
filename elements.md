@@ -6,7 +6,7 @@ image: assets/images/element.jpg
 nav-menu: true
 ---
 
-<!-- Main -->
+<!-- Main 
 <div id="main" class="alt">
 
 <!-- One -->
@@ -408,5 +408,5 @@ print 'It took ' + i + ' iterations to sort the deck.';
 
 </div>
 </section>
-
+-->
 </div>
